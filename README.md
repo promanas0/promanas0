@@ -50,18 +50,6 @@ Building decentralized applications, infrastructure dashboards, and smart contra
 
 <br/>
 
-###  About Me
-
-```javascript
-const developer = {
-    name: "ProManas",
-    role: "Full-Stack Web3 & Protocol Developer",
-    ecosystems: ["Arc", "Ritual", "EVM Networks", "Solana"],
-    passions: ["Telemetry & Indexers", "Smart Contract Architecture", "Decentralized AI", "L1/L2 Primitives"],
-    currentGoal: "Building robust, production-grade infrastructure tools for next-gen protocols.",
-    motto: "Ship fast, verify on-chain, scale seamlessly."
-};
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/promanas0/promanas0/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>

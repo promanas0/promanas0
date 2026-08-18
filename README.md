@@ -53,3 +53,11 @@ Building decentralized applications, infrastructure dashboards, and smart contra
 <div align="center">
   <img src="https://raw.githubusercontent.com/promanas0/promanas0/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=promanas0&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" alt="Retro Pacman Walk" />
+</div>

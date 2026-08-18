@@ -49,8 +49,4 @@ Building decentralized applications, infrastructure dashboards, and smart contra
 </div>
 
 <br/>
-<div align="center">
-  <a href="https://your-game-demo.vercel.app">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:ff007a,100:7928ca&height=180&section=header&text=🎮%20PLAY%20CYBER%20RUNNER%20DEMO&fontSize=35&fontColor=ffffff&animation=twinkling&desc=Click%20to%20Launch%20Web3%20Arcade%20Session&descFontSize=16&descAlignY=65" width="100%"/>
-  </a>
-</div>
+

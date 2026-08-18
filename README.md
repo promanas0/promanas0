@@ -54,9 +54,4 @@ Building decentralized applications, infrastructure dashboards, and smart contra
   <img src="https://raw.githubusercontent.com/promanas0/promanas0/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=550&lines=System.init(%22ProManas%22);;Building+Decentralized+Infrastructure;;Real-Time+Telemetry+%26+Indexers;;Deploying+Autonomous+AI+Nodes;" alt="Typing SVG" />
-  </a>
-</div>
 

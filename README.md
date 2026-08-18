@@ -50,3 +50,6 @@ Building decentralized applications, infrastructure dashboards, and smart contra
 
 <br/>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/promanas0/promanas0/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
